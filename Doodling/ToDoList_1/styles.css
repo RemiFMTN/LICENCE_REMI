@@ -7,7 +7,7 @@
 .container {
   width: 100%;
   min-height: 100vh;
-  background: linear-gradient(135deg, rgb(31, 125, 188), rgb(44, 152, 102));
+  background: linear-gradient(135deg, rgb(110, 134, 152), rgb(242, 164, 62));
   padding: 10px;
 }
 .todo-app {
@@ -19,7 +19,7 @@
   padding: 40px 30px 70px;
 }
 .todo-app h2 {
-  color: rgb(75, 0, 141);
+  color: rgb(204, 177, 42);
   display: flex;
   align-items: center;
   margin-bottom: 20px;
